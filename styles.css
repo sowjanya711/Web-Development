@@ -10,16 +10,16 @@ body{
 .page-intro{
     padding-top: 55px;
     text-align: center;
-    margin-bottom: 3%;
     display: block;
-    height: 180px;
+    height: 150px;
     max-width: 100%;
     background-image: url("images/black2.jpg");
     color: #EF9D32;
 }
 
 .page-subintro{
-    padding-top: 20px;
+    
+    text-align: center;
     color: #299DAF;
     font-family: Lucida Calligraphy;
   
