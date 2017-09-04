@@ -69,8 +69,8 @@ li:nth-child(4n){
     margin-right: 0%;
 }
  
-li.list-of-tech:hover{
-    box-shadow: 5px 5px 2px 1px white;
+li.list-of-tech1:hover{
+    box-shadow: 5px 5px 2px 1px #625D5D;
     opacity: 2;
     cursor: pointer;
 }
@@ -99,7 +99,7 @@ li img{
 
  .heading{
      text-align: center;
-     margin-top: 15px;
+     margin-top: 25px;
      margin-bottom: 5px; 
      padding: 0 5px;
      font-style: italic;
@@ -112,7 +112,7 @@ li img{
 
 .intro{
      float: left;
-     margin-top: 10px;
+     margin-top: 20px;
      margin-bottom: 5px; 
      padding: 0 5px;
      padding-left: 15px;
